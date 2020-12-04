@@ -34,7 +34,9 @@ http://www.kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOffi
 
 <img width="" height="" src="./PNG/9.PNG"></img>
 
-<B>2. 안드로이드 스튜디오 코드 개발 내용</B>
+<B>2. 로그인 페이지 안드로이드 스튜디오 코드 개발 내용</B>
+
+<B>3. 일별 박스오피스 조회 페이지 안드로이드 스튜디오 코드 개발 내용</B>
 
 <개발에 사용한 API 구성들>
 - movieNm 영화 이름
@@ -56,7 +58,7 @@ http://www.kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOffi
 
 자세한 내용은 안드로이드 스튜디오 깃허브 연동 파일들을 참고해주세요. 
 
-<B>3. UI 개발 내용</B>
+<B>4. UI 개발 내용</B>
 
 1) 메인페이지 UI
 
@@ -77,18 +79,29 @@ http://www.kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOffi
 - 슬레이트 모양의 아이콘 이미지 추가
 - 중요하다고 생각되는 내용은 색깔을 넣어 구분함.
 
-<B>4. 에뮬레이터 실행 모습</B>
+<B>2. 실제 에뮬레이터 실행 모습</B>
 
 최종적으로 에뮬레이터를 실행시키면 아래와 같다.
 
-1) 
+1) 로그인 페이지(실행시켰을 때 가장 처음 보이는 화면)
+
+<img width="" height="" src="./PNG/15.PNG"></img>
+
+2) 이메일 및 패스워드 입력
+
+<img width="" height="" src="./PNG/17.PNG"></img>
+
+3) 카카오톡ID로 로그인하기 버튼을 누르면 토스트 메시지가 나타남.
+
+<img width="" height="" src="./PNG/16.PNG"></img>
+
+4) 로그인버튼 클릭 후 일별 박스오피스 조회 메인페이지가 나타남.
 
 <img width="" height="" src="./PNG/5.PNG"></img>
 
-2) 조회하기 버튼 클릭 후
+5) 조회하기 버튼 클릭 후 2020.12.02 일별 박스오피스 TOP10이 화면에 나타남.
 
 <img width="" height="" src="./PNG/6.PNG"></img>
 
 <img width="" height="" src="./PNG/14.PNG"></img>
 
-2020년 12월 2일에 일별 박스오피스 1위부터 10위까지(총 10개) 나타난다.
