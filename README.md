@@ -1,14 +1,14 @@
 ## IT비즈니스과 B반 19173057 김난희
-### 캡스톤디자인 2-2 기말과제 개발내용
+### 캡스톤디자인 기말고사 및 졸업작품 출품용 프로젝 개발내용
 
 <B>1. 프로젝트 소개</B>
-- 프로젝트명 : lastTest_19173057
-- 프로젝트 내용 : 13~14주차 실습 응용, KOBIS(영화관입장권통합전산망) OPEN API를 이용한 일별 박스오피스 시각화 앱 개발
+- 프로젝트명 : finalexam_19173057
+- 프로젝트 내용 : 13~14주차 실습 응용, KOBIS(영화관입장권통합전산망) OPEN API를 이용한 일별 박스오피스 시각화 및 관련 앱 개발
 - 구현하고자 하는 것 : 프로젝트 개발 기준 가장 최근 날짜(2020.12.02)의 일별 박스오피스 내용 구현하기
 
 <B>2. KOBIS OPEN API 불러오기</B>
 
-1) KOBIS 홈페이지에서 불러오고자 하는 일별 박스오피스(2020.12.02) 내용 확인
+1) KOBIS 홈페이지에서 불러오고자 하는 가장 최근 날짜 일별 박스오피스(2020.12.02)의 내용 확인
 
 <img width="" height="" src="./PNG/10.PNG"></img>
 
@@ -29,7 +29,6 @@
 
 http://www.kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOfficeList.json?key=70968da465624799e4787516ce2a92e8&targetDt=20201202
 
-  
 5) 위 OPEN API 링크와, 영화관입장권통합전산망 오픈 API 사이트에 명시되어 있는 API 응답 구조를 참고하여 앱 개발.
 
 <img width="" height="" src="./PNG/9.PNG"></img>
