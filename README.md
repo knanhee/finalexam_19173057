@@ -41,6 +41,8 @@ http://www.kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOffi
 
 자세한 내용은 안드로이드 스튜디오 깃허브 연동 파일들을 참고해주세요. 
 
+https://github.com/knanhee/finalexam_19173057/commit/218baa19f5fdd0e712181fadb5052ac1b89caf84
+
 <B>3. 일별 박스오피스 조회 페이지 안드로이드 스튜디오 코드 개발 내용</B>
 
 리싸이클러뷰, 카드뷰, KOBIS의 일별 박스오피스 OPEN API(JSON)을 사용하여 일별 박스오피스 조회 페이지 구현. 
@@ -64,6 +66,8 @@ http://www.kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOffi
 <img width="" height="" src="./PNG/13.PNG"></img>
 
 자세한 내용은 안드로이드 스튜디오 깃허브 연동 파일들을 참고해주세요. 
+
+https://github.com/knanhee/finalexam_19173057/commit/218baa19f5fdd0e712181fadb5052ac1b89caf84
 
 <B>4. UI 개발 내용</B>
 
