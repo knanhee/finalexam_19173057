@@ -79,6 +79,7 @@ https://github.com/knanhee/finalexam_19173057/commit/218baa19f5fdd0e712181fadb50
 - 그 밑으로 이메일과 패스워드 입력 창 배치
 - 그 밑으로 로그인 버튼, 카카오톡 ID로 로그인 버튼 나란히 배치
 - 그 밑으로 텍스트뷰를 사용하여 비밀번호 찾기와 회원가입 하기 나란히 배치
+- drawbel폴더에 button2.xml, button_background 파일을 생성하여 버튼 라운드 효과
 
 2) 일별 박스오피스 조회 페이지 UI
 
