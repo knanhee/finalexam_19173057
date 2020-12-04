@@ -59,7 +59,16 @@ http://www.kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOffi
 
 <B>4. UI 개발 내용</B>
 
-1) 메인페이지 UI
+1) 로그인 페이지 UI
+
+<img width="" height="" src="./PNG/18.PNG"></img> <img width="" height="" src="./PNG/19.PNG"></img>
+
+- 가운데 상단 로고 및 영화 아이콘 배치
+- 그 밑으로 이메일과 패스워드 입력 창 배치
+- 그 밑으로 로그인 버튼, 카카오톡 ID로 로그인 버튼 나란히 배치
+- 그 밑으로 텍스트뷰를 사용하여 비밀번호 찾기와 회원가입 하기 나란히 배치
+
+2) 일별 박스오피스 조회 페이지 UI
 
 <img width="" height="" src="./PNG/1.PNG"></img> <img width="" height="" src="./PNG/2.PNG"></img>
 
@@ -69,7 +78,7 @@ http://www.kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOffi
 - drawbel폴더에 button.xml 파일을 생성하여 버튼 라운드 효과
 - 조회 링크와 조회하기 버튼을 나란히 배치.
 
-2) 카드뷰 구성
+3) 카드뷰 구성
 
 <img width="" height="" src="./PNG/3.PNG"></img> <img width="" height="" src="./PNG/4.PNG"></img>
 
@@ -104,3 +113,4 @@ http://www.kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOffi
 
 <img width="" height="" src="./PNG/14.PNG"></img>
 
+### 감사합니다 :)
