@@ -35,9 +35,17 @@ http://www.kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOffi
 
 <B>2. 로그인 페이지 안드로이드 스튜디오 코드 개발 내용</B>
 
+이메일(아이디)와 패스워드 입력창, 로그인 버튼 2개 구현. 
+
+로그인 버튼 1 누르면 일별 박스오피스 화면으로 전환, 로그인 버튼 2(카카오톡ID로 로그인) 누르면 토스트 메시지 
+
+자세한 내용은 안드로이드 스튜디오 깃허브 연동 파일들을 참고해주세요. 
+
 <B>3. 일별 박스오피스 조회 페이지 안드로이드 스튜디오 코드 개발 내용</B>
 
-<개발에 사용한 API 구성들>
+리싸이클러뷰, 카드뷰, KOBIS의 일별 박스오피스 OPEN API(JSON)을 사용하여 일별 박스오피스 조회 페이지 구현. 
+
+<이번 개발에 사용한 API 구성들>
 - movieNm 영화 이름
 - audiCnt 일일관객수 
 - audiChange 전일 대비 관객수 증감 비율
@@ -99,7 +107,7 @@ http://www.kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOffi
 
 <img width="" height="" src="./PNG/17.PNG"></img>
 
-3) 카카오톡ID로 로그인하기 버튼을 누르면 토스트 메시지가 나타남.
+3) 카카오톡ID로 로그인하기 버튼을 누르면 '아직 지원하지 않는 기능입니다.' 토스트 메시지가 나타남.
 
 <img width="" height="" src="./PNG/16.PNG"></img>
 
